@@ -1,0 +1,71 @@
+GamePractice.java:176: error: cannot find symbol
+		ballList.get(ballID).getCircle().setLayoutX(ballList.get(ballID).getCircle().getLayoutX() + ballList.get(ballID).getX());
+		                                                         ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:176: error: cannot find symbol
+		ballList.get(ballID).getCircle().setLayoutX(ballList.get(ballID).getCircle().getLayoutX() + ballList.get(ballID).getX());
+		                                                                                                         ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:176: error: cannot find symbol
+		ballList.get(ballID).getCircle().setLayoutX(ballList.get(ballID).getCircle().getLayoutX() + ballList.get(ballID).getX());
+		             ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:177: error: cannot find symbol
+		ballList.get(ballID).getCircle().setLayoutY(ballList.get(ballID).getCircle().getLayoutY() + ballList.get(ballID).getY());
+		                                                         ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:177: error: cannot find symbol
+		ballList.get(ballID).getCircle().setLayoutY(ballList.get(ballID).getCircle().getLayoutY() + ballList.get(ballID).getY());
+		                                                                                                         ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:177: error: cannot find symbol
+		ballList.get(ballID).getCircle().setLayoutY(ballList.get(ballID).getCircle().getLayoutY() + ballList.get(ballID).getY());
+		             ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:181: error: cannot find symbol
+		if (atRightBorder(bounds,ballID) || atLeftBorder(bounds,ballID)) {
+		                         ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:181: error: cannot find symbol
+		if (atRightBorder(bounds,ballID) || atLeftBorder(bounds,ballID)) {
+		                                                        ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:182: error: cannot find symbol
+			ballList.get(ballID).setX(ballList.get(ballID).getX()*-1);
+			                                       ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:182: error: cannot find symbol
+			ballList.get(ballID).setX(ballList.get(ballID).getX()*-1);
+			             ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:184: error: cannot find symbol
+		if (atBottomBorder(bounds,ballID) || atTopBorder(bounds,ballID)) {
+		                          ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:184: error: cannot find symbol
+		if (atBottomBorder(bounds,ballID) || atTopBorder(bounds,ballID)) {
+		                                                        ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:185: error: cannot find symbol
+			ballList.get(ballID).setY(ballList.get(ballID).getY()*-1);
+			                                       ^
+  symbol:   variable ballID
+  location: class GamePractice
+GamePractice.java:185: error: cannot find symbol
+			ballList.get(ballID).setY(ballList.get(ballID).getY()*-1);
+			             ^
+  symbol:   variable ballID
+  location: class GamePractice
+14 errors
